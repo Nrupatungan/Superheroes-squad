@@ -60,8 +60,3 @@ function populateHeroes(obj){
 }
 
 populate();
-
-let myObj = {
-    name: "Jomon",
-    age: 23,
-}
